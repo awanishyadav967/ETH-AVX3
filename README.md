@@ -20,6 +20,10 @@ To run this program, you can use Remix, an online Solidity Integrated Developmen
 4. Deploy the contract using the "Deploy & Run Transactions" tab, selecting the "Token" contract from the dropdown menu.
 5. Once deployed, interact with the contract by calling its functions through the Remix interface.
 
+
+## Proof
+![Screenshot 1](Screenshot21.png)
+![Screenshot 2](Screenshot22.png)
 ## Authors
 
 - Avanish Yadav[awanishyadav967]
